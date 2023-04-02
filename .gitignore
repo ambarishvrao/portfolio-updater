@@ -135,3 +135,4 @@ tests/files.tar
 .DS_Store
 
 casparser.code-workspace
+/portfolio-updater-ui/node_modules
